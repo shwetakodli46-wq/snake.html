@@ -141,5 +141,6 @@ If you like this project, give it a ⭐ on GitHub!
 
 ## 👨‍💻 Developer
 
-Made with ❤️ by Your Name
+Made with ❤️ by Your Name Shweta CK
+thank you.
 
